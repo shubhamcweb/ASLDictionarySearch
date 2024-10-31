@@ -3,7 +3,7 @@
 ## Description
 ASL Search is a computer vision project aimed at recognizing signs in American Sign Language (ASL) using pattern recognition techniques. This project was developed and presented at the OurCS@DFW UTA Student Computing Research Festival 2023.
 
-The system uses nearest neighbor classification on ASL datasets provided by Dr. Vassilis Athitsos' research to identify and interpret ASL signs. By leveraging Python and Google Colab, this project demonstrates the potential of machine learning in bridging communication gaps for the deaf and hard-of-hearing community.
+The system uses nearest neighbor classification on ASL datasets provided by Dr. Vassilis Athitsos' research to identify and interpret ASL signs. By leveraging Python and Google Colab and libraries like NumPy, SciPy and MatPlotLib, this project demonstrates the potential of machine learning in bridging communication gaps for the deaf and hard-of-hearing community.
 
 ## Features
 - Recognizes ASL signs using computer vision techniques
